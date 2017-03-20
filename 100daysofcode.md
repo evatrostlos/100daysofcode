@@ -1,7 +1,7 @@
 # My 100 days of code
 
 I'm holding myself publicly accountable to code at least one thing a day that is not for work. There might be days
-when I won't make it, but I'll try my best.
+when I won't make it, but I'll try my best 🦄
 
 Day | Date | What I did
 --- | --- | ---
