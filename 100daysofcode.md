@@ -7,3 +7,4 @@ Day | Date | What I did
 --- | --- | ---
 #1 | 19.03.2017 | Went through the first 7 videos of [React for Beginners](https://reactforbeginners.com)
 #2 | 20.03.2017 | Went through the next 4 videos of [React for Beginners](https://reactforbeginners.com)
+#3 | 21.03.2017 | 2 React for Beginners videos, 1 was 24 mins though. Also, sleep.
