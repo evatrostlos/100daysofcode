@@ -12,3 +12,4 @@ Day | Date | What I did
 #5 | 25.03.2017 | Worked on my website
 #6 | 26.03.2017 | Went through 3 videos of [React for Beginners](https://reactforbeginners.com)
 #7 | 27.03.2017 | Spent the day working on my CSS Art talk and then went to the docker birthday meetup to work on docker things
+#8 | 07.04.2017 | Coded the slides for my upcoming talk
