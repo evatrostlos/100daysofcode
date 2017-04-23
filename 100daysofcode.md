@@ -15,3 +15,4 @@ Day | Date | What I did
 #8 | 07.04.2017 | Coded the slides for my upcoming talk
 #9 | 08.04.2017 | More slide coding
 #10 | 09.04.2017 | Wikimedia Hackathon
+#11 | 23.04.2017 | Yes I know, long break. Made a codepen for upcoming talk
