@@ -14,3 +14,4 @@ Day | Date | What I did
 #7 | 27.03.2017 | Spent the day working on my CSS Art talk and then went to the docker birthday meetup to work on docker things
 #8 | 07.04.2017 | Coded the slides for my upcoming talk
 #9 | 08.04.2017 | More slide coding
+#10 | 09.04.2017 | Wikimedia Hackathon
